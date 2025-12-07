@@ -12,6 +12,12 @@ Building an AI-Powered Medical Assessment System: A Multi-Agent Approach to Inju
 
 <img width="1901" height="827" alt="image" src="https://github.com/user-attachments/assets/3d0e5601-01ae-4c51-9d40-1a2501c38cdb" />
 
+<img width="1903" height="846" alt="image" src="https://github.com/user-attachments/assets/f9dc7f1e-2afd-4183-b87a-eb8f9bda309f" />
+
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/13592c21-5912-43e9-9ebc-26ccbfa4bcbf" />
+
+
+
 
 
 
